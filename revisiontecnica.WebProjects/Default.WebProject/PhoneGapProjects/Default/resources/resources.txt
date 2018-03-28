@@ -1,0 +1,41 @@
+{
+	"_id": "3069020",
+	"_icon": "C:\\Users\\Desarrollador\\Documents\\Prototipo Nubison Revision tecnica\\revisiontecnica.WebProjects\\Default.WebProject\\img\\favicon.png",
+	"_ssL": "C:\\Users\\Desarrollador\\Documents\\Prototipo Nubison division Minera\\nubisonMinera.WebProjects\\Default.WebProject\\img\\landscapeSplashScreen.png",
+	"_ssP": "C:\\Users\\Desarrollador\\Documents\\Prototipo Nubison division Minera\\nubisonMinera.WebProjects\\Default.WebProject\\img\\portraitSplashScreen.png",
+	"_ssA9": "C:\\Users\\Desarrollador\\Documents\\Prototipo Nubison division Minera\\nubisonMinera.WebProjects\\Default.WebProject\\img\\9patchSplashScreen.png",
+	"_initialUxComponent": "main",
+	"_componentLastUpdated": "26/03/2018 02:48:58 49 pm",
+	"_ajaxUrl": "https://nubison-revisiontecnica.cloud.alphasoftware.com/",
+	"_additionalFiles": "img/*.jpg\nimg/*.png\ncss\\style.css",
+	"_userName": "wtwx6irfQI3iOx7OvgJt1zo2UrrNaJJqmN8Feh/S5gI=",
+	"_pw": "nEUmwR92tRwv6SDFKfexhg==",
+	"_token": "",
+	"timeout": {
+		"phoneGapBuild": "<default>",
+		"phoneGapBuildLogin": "<default>",
+		"getAppIcon": "<default>"
+	},
+	"apperian": {
+		"enableOptions": false,
+		"loginName": "osLnGM4pUcQ=",
+		"password": "c5JMXi9Y+Ko=",
+		"serverURL": "https://easesvc.apperian.com/ease.interface.php"
+	},
+	"backupConfigFile": true,
+	"_phonegapBuilderVersion": "2",
+	"useImageMagick": true,
+	"indexHTMLMetaTags": "",
+	"genAppZipFile": false,
+	"zipFileLocation": "",
+	"buildTarget": "Phonegap Build",
+	"cliProjectFolder": "",
+	"_androidBuildFlag": true,
+	"_iOSBuildFlag": false,
+	"_windowsBuildFlag": false,
+	"_baseLineGuid": "a8c4169810504461847e839994ba407e",
+	"enableInstantUpdate": false,
+	"instantUpdateSettingsJSON": "",
+	"launchAppManager": true,
+	"_sqlitedbdefined": false
+}

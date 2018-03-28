@@ -1,0 +1,117 @@
+@font-face { font-family: 'Montserrat'; src: url('fonts/Montserrat/Montserrat-Regular.ttf')  format('truetype') }
+@font-face { font-family: 'Montserrat-bold'; src: url('fonts/Montserrat/Montserrat-Bold.ttf')  format('truetype') }
+@font-face { font-family: 'Montserrat-bolder'; src: url('fonts/Montserrat/Montserrat-ExtraBold.ttf')  format('truetype') }
+@font-face { font-family: 'Montserrat-thin'; src: url('fonts/Montserrat/Montserrat-Thin.ttf')  format('truetype') }
+
+@font-face { font-family: 'OpenSans'; src: url('fonts/OpenSans/OpenSans-Regular.ttf')  format('truetype') }
+@font-face { font-family: 'OpenSans-bold'; src: url('fonts/OpenSans/OpenSans-Bold.ttf')  format('truetype') }
+@font-face { font-family: 'OpenSans-bolder'; src: url('fonts/OpenSans/OpenSans-ExtraBold.ttf')  format('truetype') }
+@font-face { font-family: 'OpenSans-thin'; src: url('fonts/OpenSans/OpenSans-Light.ttf')  format('truetype') }
+
+*:not(.fa){ font-family:Montserrat!important; }
+h1,h2,h3,h4,h5{font-family:Montserrat-bold!important;}
+p{font-family:OpenSans!important;}
+
+.color1{color:#019ee1!important;}
+.color2{color:#25619C!important;}
+.color3{color:#fe197c!important;}
+.color4{color:#D0D515!important;}
+.color5{color:#D34843!important;}
+
+.fondo1{background-color:#019ee1!important;color:white!important;}
+.fondo2{background-color:#25619C!important;color:white!important;}
+.fondo3{background-color:#fe197c!important;color:white!important;}
+.fondo4{background-color:#D0D515!important;color:black!important;}
+.fondo5{background-color:#D34843!important;color:white!important;}
+
+.fondogris{background-color:#eee!important;}
+
+
+.demo-card-header-pic .card-header {
+  height: 192px;
+  background-size: cover;
+  background-position: right;
+  color: #fff;
+}
+.demo-card-header-pic .card-content-padding .date{
+  color: #8e8e93;
+}
+.iOSPanelCard .iOSPanelBody {
+   border: #fff 0px solid!important;
+}
+.iOS7Button:not(.btn-custom), .iOS7ButtonConfirm:not(.btn-custom), .iOS7ButtonDeny:not(.btn-custom), .iOS7ButtonDD:not(.btn-custom) {
+    color: white!important;
+    border: 0px solid #007aff!important;
+}
+.iOS7PanelCard {
+	border: 0px !important;
+}
+.iOSButton, .iOSButtonLeft, .iOSButtonRight {
+    color: white;
+    text-shadow: 0px 0px #d9dbe0;
+    background: transparent;
+    border: #ababab 0px solid;
+    padding: 15px;
+}
+.iOS7PanelHeader {
+    background:#eee;
+    border-bottom: 0px solid #999999;
+    padding: 0px;
+	font:inherit;
+}
+.iOS7PanelFooter{
+	border-top:0px;
+}
+.iOS7WinTitle, .iOS7WinHeader, .iOS7WinTBar, .iOS7WinBody, .iOS7WinBBar, .iOS7WinFooter {
+    padding: 0px!important;
+}
+.iOS7Win {
+    border: 0px solid #bfbfbf;
+    border-radius: 0px!important;
+}
+.iOS7WinInner {
+    border-radius: 0px!important;
+}
+.iOS7ListItem {
+    padding: 0px;
+    border-bottom: 0px solid #cccccc;
+    background: #eee;
+}
+.iOS7ListItemSelected .card {
+	background:#eee;
+}
+.iOS7GridData, .iOS7GridRowHeader {
+    padding: 14px 0px;
+}
+.btn-custom {
+	line-height:26px!important;
+}
+.btn-custom{
+	padding:8px 16px!important; 
+	border:0px!important; 
+	text-align: left!important; 
+	color:#222!important;
+	height:auto!important;
+	background-color:white!important;
+}
+.btn-custom i{
+	padding-right: 18px;
+	width: 18px;
+	text-align:center;
+}
+.input-label{
+    margin: 16px 0px 8px 0px;
+    color: grey;
+}
+.card-content .iOS7GridData{
+    padding: 8px 0px!important;
+}
+@media (min-width: 768px) {
+  .container { width: 700px; margin:auto; }
+}
+@media (min-width: 992px) {
+  .container { width: 900px; }
+}
+@media (min-width: 1200px) {
+  .container { width: 1100px; }
+}

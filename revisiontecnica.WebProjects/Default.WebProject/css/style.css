@@ -1,0 +1,133 @@
+@font-face { font-family: 'Montserrat'; src: url('fonts/Montserrat/Montserrat-Regular.ttf')  format('truetype') }
+@font-face { font-family: 'Montserrat-bold'; src: url('fonts/Montserrat/Montserrat-Bold.ttf')  format('truetype') }
+@font-face { font-family: 'Montserrat-bolder'; src: url('fonts/Montserrat/Montserrat-ExtraBold.ttf')  format('truetype') }
+@font-face { font-family: 'Montserrat-thin'; src: url('fonts/Montserrat/Montserrat-Thin.ttf')  format('truetype') }
+
+@font-face { font-family: 'OpenSans'; src: url('fonts/OpenSans/OpenSans-Regular.ttf')  format('truetype') }
+@font-face { font-family: 'OpenSans-bold'; src: url('fonts/OpenSans/OpenSans-Bold.ttf')  format('truetype') }
+@font-face { font-family: 'OpenSans-bolder'; src: url('fonts/OpenSans/OpenSans-ExtraBold.ttf')  format('truetype') }
+@font-face { font-family: 'OpenSans-thin'; src: url('fonts/OpenSans/OpenSans-Light.ttf')  format('truetype') }
+
+*:not(.fa){ font-family:Montserrat!important; }
+h1,h2,h3,h4,h5{font-family:Montserrat-bold!important;}
+p{font-family:OpenSans!important;}
+
+.color1{color:#ff6d00!important;}
+.color2{color:#c43c00!important;}
+.color3{color:#0092ff!important;}
+
+.fondo1{background-color:#ff6d00!important;color:black!important;}
+.fondo2{background-color:#c43c00!important;color:white!important;}
+.fondo3{background-color:#0092ff!important;color:white!important;}
+
+.fondogris{background-color:#eee!important;}
+
+.fondogradiente{
+background: #FF6D00;
+background: -moz-linear-gradient(-45deg, #FF6D00 0%, #ff9e40 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg, #FF6D00 0%,#ff9e40 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg, #FF6D00 0%,#ff9e40 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#FF6D00', endColorstr='#ff9e40',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+
+.demo-card-header-pic .card-header {
+  height: 192px;
+  background-size: cover;
+  background-position: right;
+  color: #fff;
+}
+.demo-card-header-pic .card-content-padding .date{
+  color: #8e8e93;
+}
+.iOSPanelCard .iOSPanelBody {
+   border: #fff 0px solid!important;
+}
+.iOS7Button:not(.btn-custom):not(.decision), .iOS7ButtonConfirm:not(.btn-custom):not(.decision), .iOS7ButtonDeny:not(.btn-custom):not(.decision), .iOS7ButtonDD:not(.btn-custom):not(.decision) {
+    color: #ff6d00!important;
+    border: 0px solid #3194eb!important;
+}
+.decision.si,.decision.no,.decision.na{
+	background-color:#eee!important;
+	color:black!important;
+}
+.decision.si.iOS7ButtonPressed{
+	background-color: #4caf50!important;
+}
+.decision.no.iOS7ButtonPressed{
+	background-color: #f44336!important;
+}
+.decision.na.iOS7ButtonPressed{
+	background-color: #9e9e9e!important;
+}
+.iOS7PanelCard {
+	border: 0px !important;
+}
+.iOSButton, .iOSButtonLeft, .iOSButtonRight {
+    color: white;
+    text-shadow: 0px 0px #d9dbe0;
+    background: transparent;
+    border: #ababab 0px solid;
+    padding: 15px;
+}
+.iOS7PanelHeader {
+    background:#eee;
+    border-bottom: 0px solid #999999;
+    padding: 0px;
+	font:inherit;
+}
+.iOS7PanelFooter{
+	border-top:0px;
+}
+.iOS7WinTitle, .iOS7WinHeader, .iOS7WinTBar, .iOS7WinBody, .iOS7WinBBar, .iOS7WinFooter {
+    padding: 0px!important;
+}
+.iOS7Win {
+    border: 0px solid #bfbfbf;
+    border-radius: 0px!important;
+}
+.iOS7WinInner {
+    border-radius: 0px!important;
+}
+.iOS7ListItem {
+    padding: 0px;
+    border-bottom: 0px solid #cccccc;
+    background: #eee;
+}
+.iOS7ListItemSelected .card {
+	background:#eee;
+}
+.iOS7GridData, .iOS7GridRowHeader {
+    padding: 14px 0px;
+}
+.btn-custom {
+	line-height:26px!important;
+}
+.btn-custom{
+	padding:8px 16px!important; 
+	border:0px!important; 
+	text-align: left!important; 
+	color:#222!important;
+	height:auto!important;
+	background-color:white!important;
+}
+.btn-custom i{
+	padding-right: 18px;
+	width: 18px;
+	text-align:center;
+}
+.input-label{
+    margin: 16px 0px 8px 0px;
+    color: grey;
+}
+.card-content .iOS7GridData{
+    padding: 8px 0px!important;
+}
+@media (min-width: 768px) {
+  .container { width: 700px; margin:auto; }
+}
+@media (min-width: 992px) {
+  .container { width: 900px; }
+}
+@media (min-width: 1200px) {
+  .container { width: 1100px; }
+}

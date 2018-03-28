@@ -1,0 +1,1161 @@
+<PubHist<[1]<type="calendaricons">
+<name="calendaricons">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:29 26 pm')>
+>
+<[2]<type="folder">
+<name="ExeReportStyles">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('28/03/2018 08:54:59 69 am')>
+>
+<[3]<type="folder">
+<name="AppDataReportStyles">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('28/03/2018 08:54:59 69 am')>
+>
+<[4]<type="folder">
+<name="ExeChartStyles">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('28/03/2018 08:54:59 71 am')>
+>
+<[5]<type="folder">
+<name="AppDataChartStyles">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('28/03/2018 08:54:59 71 am')>
+>
+<[6]<type="A5WPage">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\index.a5w}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:30 68 pm')>
+>
+<[7]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\home.a5wcmp}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 03:02:44 19 pm')>
+>
+<[8]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\main.a5wcmp}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:33 29 pm')>
+>
+<[9]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\cssicons\font-awesome\css\font-awesome.css}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:30 88 pm')>
+>
+<[10]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\cssicons\font-awesome\css\font-awesome.min.css}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:30 90 pm')>
+>
+<[11]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\framework7.md.min.css}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:30 94 pm')>
+>
+<[12]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\style.css}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('27/03/2018 03:56:56 21 pm')>
+>
+<[13]<type="css">
+<name="a5system">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:31 61 pm')>
+>
+<[14]<type="css">
+<name="ios7">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 11 pm')>
+>
+<[15]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\project.securitysettings}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 22 pm')>
+>
+<[16]<type="css">
+<name="cssicons">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 23 pm')>
+>
+<[17]<type="css">
+<name="framework7.md.min.css}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 23 pm')>
+>
+<[18]<type="css">
+<name="style.css}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('27/03/2018 03:56:56 21 pm')>
+>
+<[19]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.eot}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 28 pm')>
+>
+<[20]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.svg}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 31 pm')>
+>
+<[21]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.ttf}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 32 pm')>
+>
+<[22]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.woff2}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 36 pm')>
+>
+<[23]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.woff}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 39 pm')>
+>
+<[24]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome.otf}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 42 pm')>
+>
+<[25]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-black.ttf}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 43 pm')>
+>
+<[26]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-blackitalic.ttf}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 44 pm')>
+>
+<[27]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-bold.ttf}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 49 pm')>
+>
+<[28]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-bolditalic.ttf}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 50 pm')>
+>
+<[29]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-extrabold.ttf}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 51 pm')>
+>
+<[30]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-extrabolditalic.ttf}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 54 pm')>
+>
+<[31]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-extralight.ttf}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 55 pm')>
+>
+<[32]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-extralightitalic.ttf}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 57 pm')>
+>
+<[33]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-italic.ttf}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 58 pm')>
+>
+<[34]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-light.ttf}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 58 pm')>
+>
+<[35]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-lightitalic.ttf}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 59 pm')>
+>
+<[36]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-medium.ttf}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 60 pm')>
+>
+<[37]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-mediumitalic.ttf}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 61 pm')>
+>
+<[38]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-regular.ttf}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 62 pm')>
+>
+<[39]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-semibold.ttf}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 63 pm')>
+>
+<[40]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-semibolditalic.ttf}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 64 pm')>
+>
+<[41]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-thin.ttf}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 64 pm')>
+>
+<[42]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-thinitalic.ttf}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 65 pm')>
+>
+<[43]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\opensans\opensans-bold.ttf}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 67 pm')>
+>
+<[44]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\opensans\opensans-bolditalic.ttf}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 69 pm')>
+>
+<[45]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\opensans\opensans-extrabold.ttf}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 70 pm')>
+>
+<[46]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\opensans\opensans-extrabolditalic.ttf}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 70 pm')>
+>
+<[47]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\opensans\opensans-italic.ttf}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 71 pm')>
+>
+<[48]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\opensans\opensans-light.ttf}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 72 pm')>
+>
+<[49]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\opensans\opensans-lightitalic.ttf}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 73 pm')>
+>
+<[50]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\opensans\opensans-regular.ttf}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 74 pm')>
+>
+<[51]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\opensans\opensans-semibold.ttf}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 75 pm')>
+>
+<[52]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\opensans\opensans-semibolditalic.ttf}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 76 pm')>
+>
+<[53]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\favicon.gif}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 76 pm')>
+>
+<[54]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\favicon.ico}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 78 pm')>
+>
+<[55]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\favicon.png}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 78 pm')>
+>
+<[56]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\gpucache\data_0}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:33 47 pm')>
+>
+<[57]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\gpucache\data_1}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:33 48 pm')>
+>
+<[58]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\gpucache\data_2}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 81 pm')>
+>
+<[59]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\gpucache\data_3}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 85 pm')>
+>
+<[60]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\gpucache\index}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 87 pm')>
+>
+<[61]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\nopic.jpg}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 88 pm')>
+>
+<[62]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\placeholder-2.png}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 88 pm')>
+>
+<[63]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\position-4.png}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('26/03/2018 12:05:24 24 pm')>
+>
+<[64]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\t1.jpg}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 90 pm')>
+>
+<[65]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\t2.jpg}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 90 pm')>
+>
+<[66]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\t3.jpg}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 91 pm')>
+>
+<[67]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\t4.jpg}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 92 pm')>
+>
+<[68]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\target.png}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('26/03/2018 11:55:00 31 am')>
+>
+<[69]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\techlogo.png}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 92 pm')>
+>
+<[70]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\js\framework7.min.js}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 96 pm')>
+>
+<[71]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\js\jquery.ui.touch-punch.min.js}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:24:32 99 pm')>
+>
+<[72]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\projectproperties.projectproperties}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('26/03/2018 11:39:17 24 am')>
+>
+<[73]<type="cssIcon">
+<name="font-awesome">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('23/03/2018 02:29:00 67 pm')>
+>
+<[74]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\tec.a5wcmp}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('28/03/2018 08:55:00 67 am')>
+>
+<[75]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\clientes.jpg}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:33 46 pm')>
+>
+<[76]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\map.jpg}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:33 48 pm')>
+>
+<[77]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\myaccount.jpg}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:33 48 pm')>
+>
+<[78]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\ot.jpg}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:33 49 pm')>
+>
+<[79]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\imagenes\nopic.jpg}">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('26/03/2018 11:38:39 84 am')>
+>
+<[80]<type="library">
+<name="library">
+<target_folder="c:\a5webroot\revisiontecnica">
+<timestamp=CTODT('27/03/2018 05:50:22 80 pm')>
+>
+<[81]<type="folder">
+<name="ExeReportStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:09 51 pm')>
+>
+<[82]<type="folder">
+<name="AppDataReportStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:09 65 pm')>
+>
+<[83]<type="folder">
+<name="ExeChartStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:09 83 pm')>
+>
+<[84]<type="folder">
+<name="AppDataChartStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:09 90 pm')>
+>
+<[85]<type="A5WPage">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\index.a5w}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:10 31 pm')>
+>
+<[86]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\main.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:10 34 pm')>
+>
+<[87]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\tec.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:10 50 pm')>
+>
+<[88]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\cssicons\font-awesome\css\font-awesome.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:10 53 pm')>
+>
+<[89]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\cssicons\font-awesome\css\font-awesome.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:10 56 pm')>
+>
+<[90]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\framework7.md.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:10 61 pm')>
+>
+<[91]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\style.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:10 65 pm')>
+>
+<[92]<type="css">
+<name="a5system">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:11 45 pm')>
+>
+<[93]<type="css">
+<name="ios7">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:11 87 pm')>
+>
+<[94]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\project.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:11 99 pm')>
+>
+<[95]<type="css">
+<name="cssicons">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:11 99 pm')>
+>
+<[96]<type="css">
+<name="framework7.md.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:11 99 pm')>
+>
+<[97]<type="css">
+<name="style.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:11 99 pm')>
+>
+<[98]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.eot}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 11 pm')>
+>
+<[99]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.svg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 15 pm')>
+>
+<[100]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 16 pm')>
+>
+<[101]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.woff2}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 20 pm')>
+>
+<[102]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.woff}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 23 pm')>
+>
+<[103]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome.otf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 26 pm')>
+>
+<[104]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-black.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 28 pm')>
+>
+<[105]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-blackitalic.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 29 pm')>
+>
+<[106]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-bold.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 32 pm')>
+>
+<[107]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-bolditalic.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 33 pm')>
+>
+<[108]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-extrabold.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 34 pm')>
+>
+<[109]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-extrabolditalic.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 37 pm')>
+>
+<[110]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-extralight.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 38 pm')>
+>
+<[111]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-extralightitalic.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 39 pm')>
+>
+<[112]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-italic.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 40 pm')>
+>
+<[113]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-light.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 41 pm')>
+>
+<[114]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-lightitalic.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 42 pm')>
+>
+<[115]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-medium.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 43 pm')>
+>
+<[116]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-mediumitalic.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 44 pm')>
+>
+<[117]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-regular.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 45 pm')>
+>
+<[118]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-semibold.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 47 pm')>
+>
+<[119]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-semibolditalic.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 48 pm')>
+>
+<[120]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-thin.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 49 pm')>
+>
+<[121]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-thinitalic.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 50 pm')>
+>
+<[122]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\opensans\opensans-bold.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 51 pm')>
+>
+<[123]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\opensans\opensans-bolditalic.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 52 pm')>
+>
+<[124]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\opensans\opensans-extrabold.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 54 pm')>
+>
+<[125]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\opensans\opensans-extrabolditalic.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 55 pm')>
+>
+<[126]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\opensans\opensans-italic.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 56 pm')>
+>
+<[127]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\opensans\opensans-light.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 57 pm')>
+>
+<[128]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\opensans\opensans-lightitalic.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 63 pm')>
+>
+<[129]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\opensans\opensans-regular.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 64 pm')>
+>
+<[130]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\opensans\opensans-semibold.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 65 pm')>
+>
+<[131]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\opensans\opensans-semibolditalic.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 66 pm')>
+>
+<[132]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\imagenes\nopic.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 68 pm')>
+>
+<[133]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\clientes.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 78 pm')>
+>
+<[134]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\favicon.gif}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 79 pm')>
+>
+<[135]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\favicon.ico}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 79 pm')>
+>
+<[136]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\favicon.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 80 pm')>
+>
+<[137]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\gpucache\data_0}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 80 pm')>
+>
+<[138]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\gpucache\data_1}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 82 pm')>
+>
+<[139]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\gpucache\data_2}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 84 pm')>
+>
+<[140]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\gpucache\data_3}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 89 pm')>
+>
+<[141]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\gpucache\index}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 90 pm')>
+>
+<[142]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\map.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:12 91 pm')>
+>
+<[143]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\myaccount.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:13 00 pm')>
+>
+<[144]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\nopic.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:13 00 pm')>
+>
+<[145]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\ot.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:13 08 pm')>
+>
+<[146]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\placeholder-2.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:13 09 pm')>
+>
+<[147]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\position-4.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:13 10 pm')>
+>
+<[148]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\t1.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:13 10 pm')>
+>
+<[149]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\t2.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:13 12 pm')>
+>
+<[150]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\t3.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:13 12 pm')>
+>
+<[151]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\t4.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:13 14 pm')>
+>
+<[152]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\target.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:13 14 pm')>
+>
+<[153]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\techlogo.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:13 15 pm')>
+>
+<[154]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\js\framework7.min.js}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:13 21 pm')>
+>
+<[155]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\js\jquery.ui.touch-punch.min.js}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:13 50 pm')>
+>
+<[156]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\projectproperties.projectproperties}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13812\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 02:40:13 51 pm')>
+>
+<[157]<type="folder">
+<name="ExeReportStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:38 79 pm')>
+>
+<[158]<type="folder">
+<name="AppDataReportStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:38 94 pm')>
+>
+<[159]<type="folder">
+<name="ExeChartStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:39 13 pm')>
+>
+<[160]<type="folder">
+<name="AppDataChartStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:39 24 pm')>
+>
+<[161]<type="A5WPage">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\index.a5w}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:39 80 pm')>
+>
+<[162]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\main.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:39 84 pm')>
+>
+<[163]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\tec.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:39 99 pm')>
+>
+<[164]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\cssicons\font-awesome\css\font-awesome.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:40 00 pm')>
+>
+<[165]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\cssicons\font-awesome\css\font-awesome.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:40 02 pm')>
+>
+<[166]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\framework7.md.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:40 06 pm')>
+>
+<[167]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\style.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:40 09 pm')>
+>
+<[168]<type="css">
+<name="a5system">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:40 63 pm')>
+>
+<[169]<type="css">
+<name="ios7">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 09 pm')>
+>
+<[170]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\project.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 21 pm')>
+>
+<[171]<type="css">
+<name="cssicons">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 21 pm')>
+>
+<[172]<type="css">
+<name="framework7.md.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 21 pm')>
+>
+<[173]<type="css">
+<name="style.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 21 pm')>
+>
+<[174]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.eot}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 24 pm')>
+>
+<[175]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.svg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 27 pm')>
+>
+<[176]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 32 pm')>
+>
+<[177]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.woff2}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 36 pm')>
+>
+<[178]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.woff}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 40 pm')>
+>
+<[179]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome.otf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 45 pm')>
+>
+<[180]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-black.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 46 pm')>
+>
+<[181]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-blackitalic.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 47 pm')>
+>
+<[182]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-bold.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 49 pm')>
+>
+<[183]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-bolditalic.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 50 pm')>
+>
+<[184]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-extrabold.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 51 pm')>
+>
+<[185]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-extrabolditalic.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 54 pm')>
+>
+<[186]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-extralight.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 55 pm')>
+>
+<[187]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-extralightitalic.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 56 pm')>
+>
+<[188]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-italic.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 57 pm')>
+>
+<[189]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-light.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 58 pm')>
+>
+<[190]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-lightitalic.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 59 pm')>
+>
+<[191]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-medium.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 60 pm')>
+>
+<[192]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-mediumitalic.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 63 pm')>
+>
+<[193]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-regular.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 64 pm')>
+>
+<[194]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-semibold.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 65 pm')>
+>
+<[195]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-semibolditalic.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 66 pm')>
+>
+<[196]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-thin.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 67 pm')>
+>
+<[197]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\montserrat\montserrat-thinitalic.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 68 pm')>
+>
+<[198]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\opensans\opensans-bold.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 69 pm')>
+>
+<[199]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\opensans\opensans-bolditalic.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 70 pm')>
+>
+<[200]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\opensans\opensans-extrabold.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 71 pm')>
+>
+<[201]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\opensans\opensans-extrabolditalic.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 72 pm')>
+>
+<[202]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\opensans\opensans-italic.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 73 pm')>
+>
+<[203]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\opensans\opensans-light.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 73 pm')>
+>
+<[204]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\opensans\opensans-lightitalic.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 74 pm')>
+>
+<[205]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\opensans\opensans-regular.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 75 pm')>
+>
+<[206]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\opensans\opensans-semibold.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 76 pm')>
+>
+<[207]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\css\fonts\opensans\opensans-semibolditalic.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 77 pm')>
+>
+<[208]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\imagenes\nopic.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 78 pm')>
+>
+<[209]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\clientes.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 79 pm')>
+>
+<[210]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\favicon.gif}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 79 pm')>
+>
+<[211]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\favicon.ico}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 79 pm')>
+>
+<[212]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\favicon.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 80 pm')>
+>
+<[213]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\gpucache\data_0}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 80 pm')>
+>
+<[214]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\gpucache\data_1}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 80 pm')>
+>
+<[215]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\gpucache\data_2}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 82 pm')>
+>
+<[216]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\gpucache\data_3}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 86 pm')>
+>
+<[217]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\gpucache\index}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 87 pm')>
+>
+<[218]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\map.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 87 pm')>
+>
+<[219]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\myaccount.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 88 pm')>
+>
+<[220]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\nopic.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 90 pm')>
+>
+<[221]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\ot.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 90 pm')>
+>
+<[222]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\placeholder-2.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 93 pm')>
+>
+<[223]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\position-4.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 95 pm')>
+>
+<[224]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\t1.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 95 pm')>
+>
+<[225]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\t2.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 97 pm')>
+>
+<[226]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\t3.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 98 pm')>
+>
+<[227]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\t4.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:41 99 pm')>
+>
+<[228]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\target.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:42 01 pm')>
+>
+<[229]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\img\techlogo.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:42 01 pm')>
+>
+<[230]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\js\framework7.min.js}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:42 07 pm')>
+>
+<[231]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\js\jquery.ui.touch-punch.min.js}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:42 10 pm')>
+>
+<[232]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison revision tecnica\revisiontecnica.webprojects\default.webproject\projectproperties.projectproperties}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16868\temphttp___nubisonlab_cl___1580\revisiontecnica">
+<timestamp=CTODT('26/03/2018 03:27:42 10 pm')>
+>
+>
